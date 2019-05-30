@@ -8,11 +8,11 @@
     "dependencies": {
         "eth-ens-namehash": "2.0.8",
         "underscore": "1.8.3",
-        "web3-core": "1.0.0-beta.36",
-        "web3-core-helpers": "1.0.0-beta.36",
-        "web3-core-promievent": "1.0.0-beta.36",
-        "web3-eth-abi": "1.0.0-beta.36",
-        "web3-eth-contract": "1.0.0-beta.36",
-        "web3-utils": "1.0.0-beta.36"
+        "web3-core": "git+https://github.com/lemengbin/web3-core.git#1.0.0-beta.36",
+        "web3-core-helpers": "git+https://github.com/lemengbin/web3-core-helpers.git#1.0.0-beta.36",
+        "web3-core-promievent": "git+https://github.com/lemengbin/web3-core-promievent.git#1.0.0-beta.36",
+        "web3-eth-abi": "git+https://github.com/lemengbin/web3-eth-abi.git#1.0.0-beta.36",
+        "web3-eth-contract": "git+https://github.com/lemengbin/web3-eth-contract.git#1.0.0-beta.36",
+        "web3-utils": "git+https://github.com/lemengbin/web3-utils.git#1.0.0-beta.36"
     }
 }
